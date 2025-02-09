@@ -26,6 +26,9 @@ style.innerHTML = `
     .web-blox-css-tss-1hh082h-Switch-colorPrimary.Mui-checked .MuiSwitch-thumb {
         background: #01b270 !important;
     }
+    #upgrade-now-button {
+        background-color: #fff !important;
+    }
 `;
 document.head.appendChild(style);
 })();
